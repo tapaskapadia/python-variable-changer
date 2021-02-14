@@ -6,8 +6,6 @@ Are you looking to obfuscate your python code but only kinda?
 
 If you answered yes to any of these questions, you still probably should not use this script. The script changes up your variable names to spice up your python. 
 
-### Requirements
-
 ### Installation
 
 This script requires python 3 to run.
